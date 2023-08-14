@@ -1,0 +1,176 @@
+C:\Users\Acer\storeDB\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Acer\storeDB\bin\Debug\net6.0\appsettings.json
+C:\Users\Acer\storeDB\bin\Debug\net6.0\storeDB.exe
+C:\Users\Acer\storeDB\bin\Debug\net6.0\storeDB.deps.json
+C:\Users\Acer\storeDB\bin\Debug\net6.0\storeDB.runtimeconfig.json
+C:\Users\Acer\storeDB\bin\Debug\net6.0\storeDB.dll
+C:\Users\Acer\storeDB\bin\Debug\net6.0\storeDB.pdb
+C:\Users\Acer\storeDB\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Acer\storeDB\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Acer\storeDB\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Acer\storeDB\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Acer\storeDB\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Acer\storeDB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Acer\storeDB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Acer\storeDB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Acer\storeDB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Acer\storeDB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Acer\storeDB\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Acer\storeDB\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Acer\storeDB\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Acer\storeDB\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Acer\storeDB\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Acer\storeDB\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Acer\storeDB\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Acer\storeDB\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Acer\storeDB\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Acer\storeDB\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Acer\storeDB\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Acer\storeDB\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Acer\storeDB\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Acer\storeDB\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Acer\storeDB\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Acer\storeDB\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Acer\storeDB\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Acer\storeDB\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Acer\storeDB\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Acer\storeDB\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Acer\storeDB\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Acer\storeDB\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Acer\storeDB\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Acer\storeDB\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Acer\storeDB\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Acer\storeDB\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Acer\storeDB\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Acer\storeDB\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Acer\storeDB\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Acer\storeDB\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Acer\storeDB\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Acer\storeDB\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Acer\storeDB\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Acer\storeDB\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Acer\storeDB\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Acer\storeDB\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Acer\storeDB\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Acer\storeDB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Acer\storeDB\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Acer\storeDB\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Acer\storeDB\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Acer\storeDB\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Acer\storeDB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Acer\storeDB\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Acer\storeDB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Acer\storeDB\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Acer\storeDB\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Acer\storeDB\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Acer\storeDB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Acer\storeDB\obj\Debug\net6.0\storeDB.csproj.AssemblyReference.cache
+C:\Users\Acer\storeDB\obj\Debug\net6.0\storeDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\storeDB\obj\Debug\net6.0\storeDB.AssemblyInfoInputs.cache
+C:\Users\Acer\storeDB\obj\Debug\net6.0\storeDB.AssemblyInfo.cs
+C:\Users\Acer\storeDB\obj\Debug\net6.0\storeDB.csproj.CoreCompileInputs.cache
+C:\Users\Acer\storeDB\obj\Debug\net6.0\storeDB.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Acer\storeDB\obj\Debug\net6.0\storeDB.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Acer\storeDB\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Acer\storeDB\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Acer\storeDB\obj\Debug\net6.0\scopedcss\bundle\storeDB.styles.css
+C:\Users\Acer\storeDB\obj\Debug\net6.0\storeDB.csproj.CopyComplete
+C:\Users\Acer\storeDB\obj\Debug\net6.0\storeDB.dll
+C:\Users\Acer\storeDB\obj\Debug\net6.0\refint\storeDB.dll
+C:\Users\Acer\storeDB\obj\Debug\net6.0\storeDB.pdb
+C:\Users\Acer\storeDB\obj\Debug\net6.0\storeDB.genruntimeconfig.cache
+C:\Users\Acer\storeDB\obj\Debug\net6.0\ref\storeDB.dll
+C:\storeDB (4)\storeDB\bin\Debug\net6.0\appsettings.Development.json
+C:\storeDB (4)\storeDB\bin\Debug\net6.0\appsettings.json
+C:\storeDB (4)\storeDB\bin\Debug\net6.0\storeDB.exe
+C:\storeDB (4)\storeDB\bin\Debug\net6.0\storeDB.deps.json
+C:\storeDB (4)\storeDB\bin\Debug\net6.0\storeDB.runtimeconfig.json
+C:\storeDB (4)\storeDB\bin\Debug\net6.0\storeDB.dll
+C:\storeDB (4)\storeDB\bin\Debug\net6.0\storeDB.pdb
+C:\storeDB (4)\storeDB\bin\Debug\net6.0\AutoMapper.dll
+C:\storeDB (4)\storeDB\bin\Debug\net6.0\Azure.Core.dll
+C:\storeDB (4)\storeDB\bin\Debug\net6.0\Azure.Identity.dll
+C:\storeDB (4)\storeDB\bin\Debug\net6.0\Humanizer.dll
+C:\storeDB (4)\storeDB\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\storeDB (4)\storeDB\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\storeDB (4)\storeDB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\storeDB (4)\storeDB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\storeDB (4)\storeDB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\storeDB (4)\storeDB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\storeDB (4)\storeDB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\storeDB (4)\storeDB\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\storeDB (4)\storeDB\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\storeDB (4)\storeDB\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\storeDB (4)\storeDB\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\storeDB (4)\storeDB\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\storeDB (4)\storeDB\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\storeDB (4)\storeDB\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\storeDB (4)\storeDB\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\storeDB (4)\storeDB\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\storeDB (4)\storeDB\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\storeDB (4)\storeDB\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\storeDB (4)\storeDB\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\storeDB (4)\storeDB\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\storeDB (4)\storeDB\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\storeDB (4)\storeDB\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\storeDB (4)\storeDB\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\storeDB (4)\storeDB\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\storeDB (4)\storeDB\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\storeDB (4)\storeDB\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\storeDB (4)\storeDB\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\storeDB (4)\storeDB\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\storeDB (4)\storeDB\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\storeDB (4)\storeDB\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\storeDB (4)\storeDB\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\storeDB (4)\storeDB\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\storeDB (4)\storeDB\bin\Debug\net6.0\System.CodeDom.dll
+C:\storeDB (4)\storeDB\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\storeDB (4)\storeDB\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\storeDB (4)\storeDB\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\storeDB (4)\storeDB\bin\Debug\net6.0\System.Memory.Data.dll
+C:\storeDB (4)\storeDB\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\storeDB (4)\storeDB\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\storeDB (4)\storeDB\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\storeDB (4)\storeDB\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\storeDB (4)\storeDB\bin\Debug\net6.0\System.Text.Json.dll
+C:\storeDB (4)\storeDB\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\storeDB (4)\storeDB\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\storeDB (4)\storeDB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\storeDB (4)\storeDB\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\storeDB (4)\storeDB\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\storeDB (4)\storeDB\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\storeDB (4)\storeDB\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\storeDB (4)\storeDB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\storeDB (4)\storeDB\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\storeDB (4)\storeDB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\storeDB (4)\storeDB\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\storeDB (4)\storeDB\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\storeDB (4)\storeDB\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\storeDB (4)\storeDB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\storeDB (4)\storeDB\obj\Debug\net6.0\storeDB.csproj.AssemblyReference.cache
+C:\storeDB (4)\storeDB\obj\Debug\net6.0\storeDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\storeDB (4)\storeDB\obj\Debug\net6.0\storeDB.AssemblyInfoInputs.cache
+C:\storeDB (4)\storeDB\obj\Debug\net6.0\storeDB.AssemblyInfo.cs
+C:\storeDB (4)\storeDB\obj\Debug\net6.0\storeDB.csproj.CoreCompileInputs.cache
+C:\storeDB (4)\storeDB\obj\Debug\net6.0\storeDB.MvcApplicationPartsAssemblyInfo.cs
+C:\storeDB (4)\storeDB\obj\Debug\net6.0\storeDB.MvcApplicationPartsAssemblyInfo.cache
+C:\storeDB (4)\storeDB\obj\Debug\net6.0\staticwebassets.build.json
+C:\storeDB (4)\storeDB\obj\Debug\net6.0\staticwebassets.development.json
+C:\storeDB (4)\storeDB\obj\Debug\net6.0\scopedcss\bundle\storeDB.styles.css
+C:\storeDB (4)\storeDB\obj\Debug\net6.0\storeDB.csproj.CopyComplete
+C:\storeDB (4)\storeDB\obj\Debug\net6.0\storeDB.dll
+C:\storeDB (4)\storeDB\obj\Debug\net6.0\refint\storeDB.dll
+C:\storeDB (4)\storeDB\obj\Debug\net6.0\storeDB.pdb
+C:\storeDB (4)\storeDB\obj\Debug\net6.0\storeDB.genruntimeconfig.cache
+C:\storeDB (4)\storeDB\obj\Debug\net6.0\ref\storeDB.dll
+C:\storeDB (4)\storeDB\bin\Debug\net6.0\Microsoft.AspNetCore.NodeServices.dll
+C:\storeDB (4)\storeDB\bin\Debug\net6.0\Microsoft.AspNetCore.SpaServices.dll
+C:\storeDB (4)\storeDB\bin\Debug\net6.0\Microsoft.AspNetCore.SpaServices.Extensions.dll
+C:\storeDB (4)\storeDB\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\storeDB (4)\storeDB\bin\Debug\net6.0\store\angular.json
+C:\storeDB (4)\storeDB\bin\Debug\net6.0\store\package-lock.json
+C:\storeDB (4)\storeDB\bin\Debug\net6.0\store\package.json
+C:\storeDB (4)\storeDB\bin\Debug\net6.0\store\server\package-lock.json
+C:\storeDB (4)\storeDB\bin\Debug\net6.0\store\server\package.json
+C:\storeDB (4)\storeDB\bin\Debug\net6.0\store\tsconfig.app.json
+C:\storeDB (4)\storeDB\bin\Debug\net6.0\store\tsconfig.json

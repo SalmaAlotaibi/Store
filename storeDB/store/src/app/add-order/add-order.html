@@ -1,0 +1,18 @@
+<form [formGroup]= "orderFormGroup" >
+   <label>Product Name</label>
+    <input matInput formControlName="ProductName">
+    <div *ngIf="!orderFormGroup.controls['ProductName'].valid && orderFormGroup.controls['ProductName'].touched" >
+
+    <div *ngIf="orderFormGroup.controls['ProductName'].errors!['required']">This is required
+    </div>
+</div>
+    <label>Price</label>
+    <input matInput formControlName="Price">
+
+    <label>Quantity </label>
+    <input matInput formControlName="Quantity">
+  </form>
+  
+   <button (click)="submit()">
+      add
+   </button>
